@@ -2,8 +2,8 @@
 
 | #  | **Project Name** `🎯` | **Description** | **Key Concepts** |  **Done**
 |----|----------------------|-----------------|------------------|----
-| 1  | **Hello World** `👋` | Print "Hello, World!" to the screen. | `print()` |  `❌`
-| 2  | **Simple Calculator** `🧮` | Perform basic arithmetic operations. | `math`, `input()` |  `❌`  
+| 1  | **Hello World** `👋` | Print "Hello, World!" to the screen. | `print()` |  `✅`
+| 2  | **Simple Calculator** `🧮` | Perform basic arithmetic operations. | `math`, `input()` |  `✅`  
 | 3  | **Mad Libs Generator** `📖` | Create a story by filling in blanks. | `strings`, `input()` |  `❌`  
 | 4  | **Number Guessing Game** `🎯` | Guess a randomly generated number. | `random`, `loops` |  `❌` 
 | 5  | **Rock, Paper, Scissors** `✊✋✌️` | Play against the computer. | `game`, `conditions` | `❌` 
